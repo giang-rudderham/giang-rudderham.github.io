@@ -80,10 +80,10 @@ author:
   name             : "Giang Rudderham"
   avatar           : "profile.png"
   bio              : "Research Coordinator and Assistant Data Scientist at The International Strategy and Reconciliation Foundation"
-  location         : "Cedar Rapids area, Iowa"
+  location         : "Cedar Rapids, Iowa area"
   employer         : 
   googlescholar    : 
-  email            : 
+  email            : "giang.rudderham@gmail.com"
   uri              : 
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/giang-rudderham/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -175,7 +175,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true

@@ -49,10 +49,6 @@ Talks
   
 Teaching
 ======
-  #<ul>{% for post in site.teaching %}
-  #  {% include archive-single-cv.html %}
-  #{% endfor %}</ul>
-
 
 * **STAT-1030: Statistics for Business (Spring 2016)**
 : University of Iowa, Department of Statistics and Actuarial Science, 4 credits
