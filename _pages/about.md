@@ -18,8 +18,6 @@ I also conducted a comparative analysis on electricity production in 4 countries
 Besides my experience in research, I have taught college-level statistics classes (as a TA), provided consulting services to a Fortune 500 company,
  and worked as an editorial assistant for a literary magazine and a book on survey research forthcoming by Wiley.
 
-# I am open to new opportunities that allow me to leverage my technical skills in data analysis and statistics to increase businesses' productivity and insight.
-
 Technical skills: data visualization, data wrangling, statistics, git
 
 Technical stack: R, Python(NumPy, Pandas, Re, Matplotlib, Seaborn, Requests, JSON, BeautifulSoup, Sqlite3), SQL (SQLite)
