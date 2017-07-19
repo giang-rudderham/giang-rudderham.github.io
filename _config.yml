@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Giang Rudderham"
+title                    : "Giang (Nguyen) Rudderham"
 title_separator          : "-"
-name                     : &name "Giang Rudderham"
+name                     : &name "Giang (Nguyen) Rudderham"
 description              : &description "Research Coordinator and Assistant Data Scientist at The International Strategy and Reconciliation Foundation"
 url                      : https://giang-rudderham.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
